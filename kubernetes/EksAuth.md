@@ -1,4 +1,4 @@
-##EKS AUTH
+## EKS AUTH
 
 * EKS authentication and authorisation is a combination of AWS Iam Role and policies and Kubernetes RBAC ( Role-based access control ) 
 The aws-auth configmap from namespace kube-system maps an iam role with a kube role.
